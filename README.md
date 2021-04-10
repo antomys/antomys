@@ -5,5 +5,3 @@
 💬 telegram: [@volIhor](https://telegram.me/volIhor)
 
 📫 [igorvolokhovych@gmail.com](mailto:igorvolokhovych@gmail.com)
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antomys)](https://github.com/anuraghazra/github-readme-stats)
