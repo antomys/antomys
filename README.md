@@ -4,4 +4,6 @@
 
 💬 telegram: [@incomingwebhook](https://t.me/incomingwebhook)
 
-📫 [igorvolokhovych@gmail.com](mailto:igorvolokhovych@gmail.com)
+📫 mailto: [igorvolokhovych@gmail.com](mailto:igorvolokhovych@gmail.com)
+
+📰 [Personal Blog](https://medium.com/@igorvolokhovych) 
